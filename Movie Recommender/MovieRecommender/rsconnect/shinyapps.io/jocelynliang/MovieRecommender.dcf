@@ -1,0 +1,12 @@
+name: MovieRecommender
+title: MovieRecommender
+username:
+account: jocelynliang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1531186
+bundleId: 2620750
+url: https://jocelynliang.shinyapps.io/MovieRecommender/
+when: 1574819926.79184
+asMultiple: FALSE
+asStatic: FALSE

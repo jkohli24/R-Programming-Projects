@@ -1,0 +1,11 @@
+.rateitems {
+   padding-left: 5px; 
+   height: 450px; 
+   overflow-y: scroll;
+}
+
+.btn-warning {
+   background: #CD5C5C;
+   color: white; 
+   font-size: 120%;
+}
